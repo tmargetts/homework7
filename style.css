@@ -1,0 +1,10 @@
+.text-center {
+    background: lightgray;
+    border-radius: 4px;
+}
+body {
+    background-image: url("https://images2.alphacoders.com/724/724316.jpg");
+    background-repeat: repeat;
+    background-position: cover;
+    background-size: 100%;
+}
