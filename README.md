@@ -24,6 +24,8 @@ It stores the data submitted into a Firebase database.
 
 This application utlizes HTML, CSS, Bootstrap framework, along with Javascript and JQuery framework. 
 
-Check it from below!
+Check it out from the link below!
 
+[Train Schedule](https://tmargetts.github.io/homework7/.)
 
+:steam_locomotive:
